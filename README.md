@@ -26,6 +26,8 @@ A simple to-do list application that persists your tasks in the browser's localS
 4. Select the main branch as source
 5. Your to-do list will be live at the provided GitHub Pages URL
 
-## License
+## Quick Start
 
-MIT
+1. Download the project files:
+   ```bash
+   git clone https://github.com/kanai6344/todo-list.git
