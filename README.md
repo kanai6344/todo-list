@@ -22,14 +22,6 @@ A simple to-do list application that persists your tasks in the browser's localS
 2. Open `index.html` in your browser
 3. Start managing your tasks!
 
-## Hosting on GitHub Pages
-
-1. Push this code to a GitHub repository
-2. Go to repository Settings
-3. Navigate to Pages section
-4. Select the main branch as source
-5. Your to-do list will be live at the provided GitHub Pages URL
-
 ## Quick Start
 
 1. Download the project files:
