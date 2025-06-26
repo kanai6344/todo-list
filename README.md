@@ -3,7 +3,7 @@
 A simple to-do list application that persists your tasks in the browser's localStorage.
 
 
-![Weather-App Screenshot](todo.png)
+![ToDo-list Screenshot](todo.png)
 
 
 ## Features
