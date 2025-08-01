@@ -16,6 +16,10 @@ A simple to-do list application that persists your tasks in the browser's localS
 - Task counter
 - Responsive design
 
+## Live Demo
+
+You can view a live version of this tool at [(https://kanai6344.github.io/todo-list/)]
+
 ## How to Use
 
 1. Clone this repository or download the files
