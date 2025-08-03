@@ -2,9 +2,7 @@
 
 A simple to-do list application that persists your tasks in the browser's localStorage.
 
-
 ![ToDo-list Screenshot](todo.png)
-
 
 ## Features
 
